@@ -14,14 +14,14 @@ In depth we are...
 
 - Rendering charts using **Chart.js**.
 
-The app is **full responsive** so feel free to view on mobile. 
+The components are **full functional** and **responsive** so feel free to navigate around as well as view on **mobile**. 
 
 # Screenshots
 
-<img src="/src/images/Homepage-desktop.png" alt="Alt text" title="Optional title" width=auto height="350">
-<img src="/src/images/Chart-desktop.png" alt="Alt text" title="Optional title" width=auto height="300">
+<img src="/src/images/Homepage-desktop.png" alt="Alt text" title="Optional title" width=auto height="400">
+<img src="/src/images/Chart-desktop.png" alt="Alt text" title="Optional title" width=auto height="400">
 <img src="/src/images/Cryptos-mobile.png" alt="Alt text" title="Optional title" width=auto height="300">
-<img src="/src/images/Chart-mobile.png" alt="Alt text" title="Optional title" width=auto height="250">
+<img src="/src/images/Chart-mobile.png" alt="Alt text" title="Optional title" width=auto height="300">
 
 
 
