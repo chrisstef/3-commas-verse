@@ -18,7 +18,10 @@ The app is **full responsive** so feel free to view on mobile.
 
 # Screenshots
 
-<img src="/src/images/Homepage-desktop.png" alt="Alt text" title="Optional title" width=auto height="300"><img src="/src/images/Chart-desktop.png" alt="Alt text" title="Optional title" width=auto height="300"><img src="/src/images/Cryptos-mobile.png" alt="Alt text" title="Optional title" width=auto height="250"><img src="/src/images/Chart-mobile.png" alt="Alt text" title="Optional title" width=auto height="250">
+<img src="/src/images/Homepage-desktop.png" alt="Alt text" title="Optional title" width=auto height="350">
+<img src="/src/images/Chart-desktop.png" alt="Alt text" title="Optional title" width=auto height="300">
+<img src="/src/images/Cryptos-mobile.png" alt="Alt text" title="Optional title" width=auto height="300">
+<img src="/src/images/Chart-mobile.png" alt="Alt text" title="Optional title" width=auto height="250">
 
 
 
