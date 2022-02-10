@@ -27,7 +27,9 @@ There can be a lot of things to be implemented since the app is created using **
 Some of them..
 
 - Add **technical indicators** on the chart which would make **algorithmic trading** applicable.
+
 - Connect our app with the **3CommasApi** for more advanced endpoints for trading.
+
 - Add **dark Mode** button.
 
 
