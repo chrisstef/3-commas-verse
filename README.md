@@ -22,13 +22,13 @@ The components are **full functional** and **responsive** so feel free to naviga
 
 ## Future Ideas 💭
 
-There can be a lot of things to be implemented since the app is created using minimal code and therefore it's adaptable.
+There can be a lot of things to be implemented since the app is created using **minimal code** and therefore it's adaptable.
 
 Some of them..
 
-- Add technical indicators on the chart which would make algorithmic trading applicable.
-- Connect our app with the 3CommasApi and use more advanced endpoints for trading.
-- Add dark Mode button on the Navbar.
+- Add **technical indicators** on the chart which would make **algorithmic trading** applicable.
+- Connect our app with the **3CommasApi** for more advanced endpoints for trading.
+- Add **dark Mode** button.
 
 
 ## Screenshots 📸
@@ -56,3 +56,6 @@ Some of them..
 - Visual Studio Code
 - Git
 ```
+
+
+## Enjoy 🙌
