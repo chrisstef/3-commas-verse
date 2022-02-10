@@ -21,8 +21,6 @@ The components are **full functional** and **responsive** so feel free to naviga
 <img src="/src/images/Homepage-desktop.png" alt="Alt text" title="Optional title" width=auto height="400">
 <img src="/src/images/Chart-desktop.png" alt="Alt text" title="Optional title" width=auto height="400">
 <img src="/src/images/Cryptos-mobile.png" alt="Alt text" title="Optional title" width=auto height="300">
-<img src="/src/images/Chart-mobile.png" alt="Alt text" title="Optional title" width=auto height="300">
-
 
 
 ## Languages
