@@ -14,6 +14,7 @@ In depth we are...
 
 - Rendering charts using **Chart.js**.
 
+The app is **full responsive** so feel free to view on mobile. 
 
 # Screenshot
 
