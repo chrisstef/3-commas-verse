@@ -18,7 +18,7 @@ The app is **full responsive** so feel free to view on mobile.
 
 # Screenshot
 
-<img src="/src/assets/owner/screencapture-Modern-Crypto-Punks.png" alt="Alt text" title="Optional title">
+<img src="/src/images/Homepage Desktop.png" alt="Alt text" title="Optional title">
 
 
 ## Languages
