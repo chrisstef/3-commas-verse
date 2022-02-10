@@ -1,4 +1,4 @@
-## WEB Application Useful For Traders.
+# My Commit for Schelling Point Virtual Hackathon.
 
 ''In this repository I built a **web app** which displays cryptocurrencies details and news useful for **traders**. ''<br>
 The App was build with React JS.
