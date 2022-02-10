@@ -21,7 +21,7 @@ In depth we are...
 
 - Rendering charts using **Chart.js**.
 
-The components are **full functional** and **responsive** so feel free to navigate around as well as view on **mobile**. In mobile version view chart in **landscape mode** for a better experience. 
+The components are **full functional** and **responsive** so feel free to navigate around as well as view on **mobile**. In mobile version please view chart in **landscape mode** for a better experience. 
 
 
 ## Future Ideas 💭
