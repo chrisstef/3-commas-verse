@@ -18,7 +18,7 @@ The app is **full responsive** so feel free to view on mobile.
 
 # Screenshots
 
-![alt text](https://github.com/chrisstef/3CommasVerse/images/Homepage-desktop.png)
+![alt text](https://github.com/chrisstef/3CommasVerse/src/images/Homepage-desktop.png)
 
 ## Languages
 ```
