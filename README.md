@@ -16,10 +16,9 @@ In depth we are...
 
 The app is **full responsive** so feel free to view on mobile. 
 
-# Screenshot
+# Screenshots
 
-<img src="/src/images/Homepage Desktop.png" alt="Alt text" title="Optional title">
-
+![alt text](https://github.com/chrisstef/3CommasVerse/images/Homepage-desktop.png)
 
 ## Languages
 ```
