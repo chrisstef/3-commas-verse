@@ -3,7 +3,7 @@
 
 ## Project Overview 🚀
 
-''In this repository I built a **web app** which displays cryptocurrencies details and news useful for **traders**. ''<br>
+''In this repository I built a **web app** which displays cryptocurrencies details and news useful for **traders** in real time. ''<br>
 The App was build with React JS.
 
 
@@ -17,7 +17,7 @@ In depth we are...
 
 - Rendering charts using **Chart.js**.
 
-The components are **full functional** and **responsive** so feel free to navigate around as well as view on **mobile**. 
+The components are **full functional** and **responsive** so feel free to navigate around as well as view on **mobile**. In mobile version view chart in **landscape mode** for a better experience. 
 
 
 ## Future Ideas 💭
