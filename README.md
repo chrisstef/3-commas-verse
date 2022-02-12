@@ -26,7 +26,7 @@ The components are fully functional so feel free to navigate around as well as v
 
 ## Future Ideas 💭
 
-There can be a lot of things to be implemented since the app is created using **minimal code** and therefore it's adaptable.
+There can be a lot of things to be implemented since the app is build with components and it's easy to just add more components.
 
 Some of them..
 
