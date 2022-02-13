@@ -8,10 +8,10 @@ https://3-commas-verse.vercel.app/
 ## Project Overview 🚀
 
 ''In this repository I built a web app which displays various crypto **details** and **useful news**, for **traders** in real time.''<br>
-User can search prices and news related to the crypto of **their choice**. The App was build with **React JS**.
+User can search prices and news related to the crypto of **their choice**.
 
 
-In depth we are...
+The App was build with **React JS**. In depth we are...
 
 - Using **RapidAPI** to fetch data from 2 different API's ( Coinranking, Bing News Search) with **custom Hooks**.
 
