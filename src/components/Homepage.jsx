@@ -4,6 +4,7 @@ import { Typography, Row, Col, Statistic } from "antd";
 import { Link } from "react-router-dom";
 import { useGetCryptosQuery } from "../services/cryptoApi";
 import { Cryptocurrencies, News } from "../components";
+import Loader from "./Loader";
 
 const { Title } = Typography;
 
@@ -11,7 +12,7 @@ const Homepage = () => {
   const { data, isFetching } = useGetCryptosQuery(10); // Declare our custom hook that we will use to dynamically display our data.
   const globalStats = data?.data?.stats;
 
-  if (isFetching) return "Loading...";
+  if (isFetching) return <Loader />;
 
   return (
     <>

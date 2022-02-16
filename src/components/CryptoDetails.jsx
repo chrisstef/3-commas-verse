@@ -20,6 +20,8 @@ import {
   useGetCryptoHistoryQuery,
 } from "../services/cryptoApi";
 
+import Loader from './Loader';
+
 import LineChart from "./LineChart";
 
 const { Title, Text } = Typography;
@@ -36,17 +38,18 @@ const CryptoDetails = () => {
   const cryptoDetails = data?.data?.coin;
 
   console.log("cryptoDetails: ", cryptoDetails);
-  if (isFetching) return "Loading...";
 
-  const time = ["3h", "24h", "7d", "30d", "1y", "3m", "3y", "5y"];
+  if (isFetching) return <Loader />;
+
+  const time = ["3h", "24h", "7d", "30d", "3m", "1y", "3y", "5y"];
 
   const stats = [
+    { title: "Rank", value: cryptoDetails?.rank, icon: <NumberOutlined /> },
     {
       title: "Price to USD",
       value: `$ ${cryptoDetails?.price && millify(cryptoDetails?.price)}`,
       icon: <DollarCircleOutlined />,
     },
-    { title: "Rank", value: cryptoDetails?.rank, icon: <NumberOutlined /> },
     {
       title: "Market Cap",
       value: `$ ${
@@ -94,14 +97,14 @@ const CryptoDetails = () => {
     },
     {
       title: "Total Supply",
-      value: `$ ${
+      value: `${
         cryptoDetails?.supply?.total && millify(cryptoDetails?.supply?.total)
       }`,
       icon: <ExclamationCircleOutlined />,
     },
     {
       title: "Circulating Supply",
-      value: `$ ${
+      value: `${
         cryptoDetails?.supply?.circulating &&
         millify(cryptoDetails?.supply?.circulating)
       }`,

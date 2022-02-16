@@ -372,6 +372,7 @@
 .crypto-card-container {
   min-height: 65vh !important;
 }
+
 .crypto-card {
   min-width: 250px;
 }
