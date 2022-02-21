@@ -22,7 +22,8 @@ The app was build with **React JS**. In depth we are...
 - Rendering charts using **Chart.js**.
 
 The components are fully functional so feel free to navigate around as well as view on **mobile**. In mobile version please view chart in **landscape mode** for a better experience. 
-##Note:## Under heavy traffic this site will break because we I'm using a free RapidAPI key and that limits the amount of requests the webserver can send.
+
+## Note: ## Under heavy traffic this site will break because we I'm using a free RapidAPI key and that limits the amount of requests the webserver can send.
 
 
 ## Future Ideas 💭
