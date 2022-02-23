@@ -34,9 +34,9 @@ Some of them..
 
 - Add **technical indicators** on the chart which would make **algorithmic trading** applicable.
 
-- Connect our app with the **3CommasApi** for more **advanced endpoints** for trading.
+- Connect our app with the **3CommasApi** for more **advanced trading endpoints**.
 
-- Add **dark Mode** button.
+- Add **dark-Mode** button.
 
 
 ## Screenshots 📸
