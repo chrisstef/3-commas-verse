@@ -1,5 +1,8 @@
 ## My Commit for Schelling Point Virtual Hackathon
 
+A crypto web app built for **3Commas** during the Schelling Point Virtual Hackathon on **Gitcoin**. This project was the top winner in Competition 2: Design a business tool for 3Commas traders!
+
+
 ## Deployed Project 🌐
 
 https://3-commas-verse.vercel.app/
