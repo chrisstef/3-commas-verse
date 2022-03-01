@@ -1,6 +1,6 @@
 ## My commit for Schelling Point Virtual Hackathon ⚡
 
-A React web app built for **3Commas** during the Schelling Point Virtual Hackathon on **Gitcoin**. This project was the top winner in Competition 2: Design a business tool for 3Commas traders!
+A **React** web app built for **3Commas** during the Schelling Point Virtual Hackathon on **Gitcoin**. This project was the top winner in Competition 2: Design a business tool for 3Commas traders!
 
 
 ## Deployed Project 🌐
@@ -14,7 +14,7 @@ https://3-commas-verse.vercel.app/
 User can search prices and news related to the crypto of **their choice**.
 
 
-The app was build with **React JS**. In depth we are...
+In depth we are...
 
 - Using **RapidAPI** to fetch data from 2 different API's ( Coinranking, Bing News Search) with **custom Hooks**.
 
