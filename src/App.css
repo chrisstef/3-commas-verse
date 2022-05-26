@@ -239,6 +239,10 @@
   color: var(--pink);
 }
 
+.coin-desc-link a:hover {
+  color: #23847b;
+}
+
 .coin-desc-link h3 {
   font-weight: 700;
 }
@@ -269,6 +273,10 @@
   color: var(--pink);
   font-weight: 700;
   font-size: 1rem;
+}
+
+.coin-link a:hover {
+  color: #248d83;
 }
 
 .coin-link:hover,
@@ -362,6 +370,7 @@
 .show-more {
   margin-top: 0px !important;
 }
+
 .exchange-image {
   margin: 0px 10px !important;
 }

@@ -32,12 +32,14 @@ const Navbar = () => {
   return (
     <div className="nav-container">
       <div className="logo-container">
-        <Avatar
-          shape="square"
-          src={icon}
-          style={{ verticalAlign: "middle" }}
-          size="medium"
-        />
+        <Link to="/">
+          <Avatar
+            shape="square"
+            src={icon}
+            style={{ verticalAlign: "middle" }}
+            size="medium"
+          />
+        </Link>
         <Typography.Title level={3} className="logo">
           <Link style={{ color: "#000000" }} to="/">
             3CommasVerse
