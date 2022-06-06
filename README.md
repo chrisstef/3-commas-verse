@@ -11,12 +11,12 @@ https://3-commas-verse.vercel.app/
 ## Project Overview 🚀
 
 ''In this repository I built a web app which displays various crypto **details** and **useful news**, for **traders** in real time.''<br>
-User can search prices and news related to the crypto of **their choice**.
+Users can search prices and news related to the crypto of **their choice**.
 
 
 In depth we are...
 
-- Using **RapidAPI** to fetch data from 2 different API's ( Coinranking, Bing News Search) with **custom Hooks**.
+- Utilizing **RapidAPI** to fetch data from 2 different API's ( Coinranking, Bing News Search) with **custom Hooks**.
 
 - Managing our States with **Redux**.
 
@@ -24,7 +24,7 @@ In depth we are...
 
 - Rendering charts using **Chart.js**.
 
-The components are functional so feel free to navigate around as well as view on **mobile**. In mobile version please view chart in **landscape mode** for a better experience. 
+The components are fully-functional so feel free to navigate around as well as view on **mobile**. In mobile version please view chart in **landscape mode** for a better experience. 
 
 **Note:** Under **heavy traffic** the app will break because I'm using a free RapidAPI key and that limits the amount of requests the webserver can send.
 
