@@ -31,7 +31,7 @@ The components are fully-functional so feel free to navigate around as well as v
 
 ## Future Ideas 💭
 
-There can be a lot of things to be implemented since the app is build with components and it's easy to modify them.
+There are a lot of things to be implemented since the app is build with components and is easy to modify them.
 
 Some of them..
 
