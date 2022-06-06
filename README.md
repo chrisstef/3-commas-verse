@@ -35,7 +35,7 @@ There are a lot of things to be implemented since the app is build with componen
 
 Some of them..
 
-- Add **technical indicators** on the chart which would make **algorithmic trading** applicable.
+- Add **technical indicators** which would make **algorithmic trading** applicable.
 
 - Connect our app with the **3CommasApi** for more **advanced trading endpoints**.
 
