@@ -25,11 +25,6 @@
   justify-content: center;
 }
 
-.menu-control-container:hover,
-:focus {
-  color: #21a699d3 !important;
-}
-
 .app {
   display: flex;
   overflow: hidden;
